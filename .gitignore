@@ -1,0 +1,12 @@
+# Python
+env/
+*.pyc
+
+# PyCharm
+.idea
+
+# Calc
+*.xlsx
+
+# Gecko
+*.log
