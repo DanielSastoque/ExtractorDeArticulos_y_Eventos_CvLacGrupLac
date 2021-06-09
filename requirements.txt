@@ -1,4 +1,4 @@
-pip==10.0.1
+pip==19.2
 BeautifulSoup==3.2.1
 certifi==2018.4.16
 chardet==3.0.4
